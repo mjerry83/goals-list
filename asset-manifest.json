@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/goals-list/static/css/main.bb9a0b67.css",
+    "main.js": "/goals-list/static/js/main.23b4c404.js",
+    "static/js/787.57525d66.chunk.js": "/goals-list/static/js/787.57525d66.chunk.js",
+    "static/media/Yeongdeok Sea.ttf": "/goals-list/static/media/Yeongdeok Sea.e3ab0f4cef8e292ae922.ttf",
+    "static/media/duty.png": "/goals-list/static/media/duty.e927d72314407d5a7667.png",
+    "index.html": "/goals-list/index.html",
+    "main.bb9a0b67.css.map": "/goals-list/static/css/main.bb9a0b67.css.map",
+    "main.23b4c404.js.map": "/goals-list/static/js/main.23b4c404.js.map",
+    "787.57525d66.chunk.js.map": "/goals-list/static/js/787.57525d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9a0b67.css",
+    "static/js/main.23b4c404.js"
+  ]
+}
